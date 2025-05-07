@@ -10,5 +10,12 @@ Nesta pasta mostra todas as aulas feitas no primeiro modulo, como introdução a
 
 ## Modulo 02
 
-Em breve...
+A pasta a seguir mostra como fazer a Sintaxe basica com Python, como tipos de operaores, estruturas condicionais, manipulação de strings e dominando funções. E por fim, criando um projeto para criar um sistema bancario.
 
+## Modulo 03
+
+O modulo seguinte mostra o trabalho com coleções em Python como listas, tuplas, conjuntos, dicionarios e lidando com data, hora e fuso horario. E no final um projeto para otimizar um sistema bancario com funções.
+
+## Modulo 04
+
+Em breve...
