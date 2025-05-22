@@ -1,0 +1,55 @@
+Metadata-Version: 2.4
+Name: package_name
+Version: 0.0.1
+Summary: Processamento de imagens
+Home-page: -
+Author: Antony
+Author-email: antonydelara.lima09@gmail.com
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+Requires-Dist: scikit-image>=0.16.1
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+# image_processing
+
+Description.
+The package image_processing is used to:
+    Processing:
+        - Histrograms Matching
+        - Structural similarity
+        - Resize Image
+    Utils: 
+        - Road image
+        - Save image
+        - Plot image
+        - Plot result
+        - Plot histogram
+
+## Instalatation
+Use the package manager [pip](https://pypi.pypa.io/en/stable/) to install package_name
+
+'''bash
+pip install package_name
+'''
+
+## Usage
+
+'''python
+from package.name.module1_name import file1_name
+file1_name.my_function()
+'''
+
+## Author
+Antony
+
+## License
+[MIT](https://chooselicense.com/licenses/mit/)
